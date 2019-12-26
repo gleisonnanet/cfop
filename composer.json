@@ -1,0 +1,9 @@
+{
+    "name": "gleisonnanet/cfop",
+    "description": "Lista atualizada de CFOP",
+    "keywords": ["cfop", "nfe"],
+    "license": "MIT",
+
+
+    "minimum-stability": "stable"
+}
